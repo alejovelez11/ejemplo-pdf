@@ -15,11 +15,19 @@
     "@angular/common": "~8.2.14",
     "@angular/compiler": "~8.2.14",
     "@angular/core": "~8.2.14",
+    "@angular/fire": "^5.2.3",
     "@angular/forms": "~8.2.14",
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
+    "canvas-elements": "0.0.6",
+    "canvg": "^3.0.6",
+    "firebase": "^7.6.1",
+    "html2canvas": "^1.0.0-rc.5",
+    "jspdf": "^1.5.3",
     "rxjs": "~6.4.0",
+    "svg2pdf.js": "^1.5.0",
+    "sweetalert2": "^9.5.3",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
@@ -41,7 +49,6 @@
     "karma-jasmine-html-reporter": "^1.4.0",
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
-    "tslint": "~5.15.0",
     "typescript": "~3.5.3"
   }
 }
