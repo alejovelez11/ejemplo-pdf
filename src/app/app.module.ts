@@ -18,6 +18,7 @@ import { AngularFirestoreModule } from '@angular/fire/firestore';
 // Reactive forms
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { PdfGenerateComponent } from './pdf-generate/pdf-generate.component';
+import { InvoiceGenerateComponent } from './invoice-generate/invoice-generate.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { PdfGenerateComponent } from './pdf-generate/pdf-generate.component';
     ProductListComponent,
     ProductComponent,
     PdfGenerateComponent,
+    InvoiceGenerateComponent,
   ],
   imports: [
     BrowserModule,
